@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/build/Debug-iphonesimulator/BSImagePicker/BSImagePicker.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/build/Pods.build/Debug-iphonesimulator/BSImagePicker.build/unextended-module.modulemap",
+    }]
+  }]
+}

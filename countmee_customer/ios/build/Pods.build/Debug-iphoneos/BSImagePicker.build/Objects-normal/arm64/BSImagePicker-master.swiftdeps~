@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "fed78d3018324a5cf1d28482c5e71dfe"
+build_time: [1643793791, 404076000]
+inputs:
+  "/Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/BSImagePicker/Sources/View/AlbumCell.swift": [1643793715, 774005599]
+  "/Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/BSImagePicker/Sources/Controller/AlbumsViewController.swift": [1643793715, 768315134]
+  "/Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/BSImagePicker/Sources/Model/AlbumTableViewDataSource.swift": [1643793715, 771404399]
+  "/Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/BSImagePicker/Sources/Model/AssetStore.swift": [1643793715, 769816383]
+  "/Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/BSImagePicker/Sources/Protocol/BSImagePickerSettings.swift": [1643793715, 765401926]
+  "/Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/BSImagePicker/Sources/Controller/BSImagePickerViewController.swift": [1643793715, 766447763]
+  "/Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/BSImagePicker/Sources/View/CameraCell.swift": [1643793715, 774936353]
+  "/Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/BSImagePicker/Sources/Model/CameraCollectionViewDataSource.swift": [1643793715, 772340474]
+  "/Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/BSImagePicker/Sources/Model/ComposedCollectionViewDataSource.swift": [1643793715, 771903128]
+  "/Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/BSImagePicker/Sources/Extension/NSIndexSet+NSIndexPath.swift": [1643793715, 764609824]
+  "/Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/BSImagePicker/Sources/View/PhotoCell.swift": [1643793715, 773558329]
+  "/Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/BSImagePicker/Sources/Model/PhotoCollectionViewDataSource.swift": [1643793715, 772804053]
+  "/Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/BSImagePicker/Sources/Controller/PhotosViewController.swift": [1643793715, 767674342]
+  "/Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/BSImagePicker/Sources/Controller/PreviewViewController.swift": [1643793715, 765981565]
+  "/Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/BSImagePicker/Sources/View/SelectionView.swift": [1643793715, 774520338]
+  "/Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/BSImagePicker/Sources/Model/Settings.swift": [1643793715, 770280135]
+  "/Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/BSImagePicker/Sources/Extension/UIViewController+BSImagePicker.swift": [1643793715, 764196921]
+  "/Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/BSImagePicker/Sources/Controller/ZoomAnimator.swift": [1643793715, 768892101]

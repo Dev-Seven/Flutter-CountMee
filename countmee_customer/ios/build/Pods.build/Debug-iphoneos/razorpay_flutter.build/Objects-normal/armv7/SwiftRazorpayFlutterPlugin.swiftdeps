@@ -1,0 +1,98 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SwiftRazorpayFlutterPlugin"
+provides-nominal:
+- "16razorpay_flutter26SwiftRazorpayFlutterPluginC"
+provides-member:
+- ["16razorpay_flutter26SwiftRazorpayFlutterPluginC", ""]
+provides-dynamic-lookup:
+- "CHANNEL_NAME"
+- "handle"
+- "razorpayDelegate"
+- "register"
+depends-top-level:
+- !private "CHANNEL_NAME"
+- "CastingPrecedence"
+- "FlutterMethodCall"
+- !private "FlutterMethodChannel"
+- "FlutterPlugin"
+- "FlutterPluginRegistrar"
+- "FlutterResult"
+- "NSObject"
+- "RazorpayDelegate"
+- "StringLiteralType"
+- "SwiftRazorpayFlutterPlugin"
+- !private "print"
+- !private "razorpayDelegate"
+depends-member:
+- ["8Razorpay31ExternalWalletSelectionProtocolP", "init"]
+- !private ["8Razorpay31ExternalWalletSelectionProtocolP", "open"]
+- !private ["8Razorpay31ExternalWalletSelectionProtocolP", "resync"]
+- ["16razorpay_flutter16RazorpayDelegateC", "init"]
+- !private ["16razorpay_flutter16RazorpayDelegateC", "open"]
+- !private ["16razorpay_flutter16RazorpayDelegateC", "resync"]
+- ["8Razorpay0A33PaymentCompletionProtocolWithDataP", "init"]
+- !private ["8Razorpay0A33PaymentCompletionProtocolWithDataP", "open"]
+- !private ["8Razorpay0A33PaymentCompletionProtocolWithDataP", "resync"]
+- ["8Razorpay0A8ProtocolP", ""]
+- ["8Razorpay0A8ProtocolP", "init"]
+- !private ["8Razorpay0A8ProtocolP", "open"]
+- !private ["8Razorpay0A8ProtocolP", "resync"]
+- !private ["16razorpay_flutter26SwiftRazorpayFlutterPluginC", "CHANNEL_NAME"]
+- ["16razorpay_flutter26SwiftRazorpayFlutterPluginC", "FlutterMethodCall"]
+- !private ["16razorpay_flutter26SwiftRazorpayFlutterPluginC", "FlutterMethodChannel"]
+- ["16razorpay_flutter26SwiftRazorpayFlutterPluginC", "FlutterPluginRegistrar"]
+- ["16razorpay_flutter26SwiftRazorpayFlutterPluginC", "FlutterResult"]
+- ["16razorpay_flutter26SwiftRazorpayFlutterPluginC", "RazorpayDelegate"]
+- !private ["16razorpay_flutter26SwiftRazorpayFlutterPluginC", "SwiftRazorpayFlutterPlugin"]
+- ["16razorpay_flutter26SwiftRazorpayFlutterPluginC", "deinit"]
+- ["16razorpay_flutter26SwiftRazorpayFlutterPluginC", "handle"]
+- ["16razorpay_flutter26SwiftRazorpayFlutterPluginC", "init"]
+- !private ["16razorpay_flutter26SwiftRazorpayFlutterPluginC", "print"]
+- !private ["16razorpay_flutter26SwiftRazorpayFlutterPluginC", "razorpayDelegate"]
+- ["16razorpay_flutter26SwiftRazorpayFlutterPluginC", "register"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+depends-nominal:
+- "8Razorpay31ExternalWalletSelectionProtocolP"
+- "16razorpay_flutter16RazorpayDelegateC"
+- "8Razorpay0A33PaymentCompletionProtocolWithDataP"
+- "8Razorpay0A8ProtocolP"
+- "16razorpay_flutter26SwiftRazorpayFlutterPluginC"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/razorpay-pod/Pod/Razorpay.framework/Modules/Razorpay.swiftmodule/armv7-apple-ios.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/ObjectiveC.swiftmodule/armv7-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreImage.swiftmodule/armv7-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/QuartzCore.swiftmodule/armv7-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Dispatch.swiftmodule/armv7-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Metal.swiftmodule/armv7-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Darwin.swiftmodule/armv7-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreLocation.swiftmodule/armv7-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Foundation.swiftmodule/armv7-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreFoundation.swiftmodule/armv7-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreGraphics.swiftmodule/armv7-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Swift.swiftmodule/armv7-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/UIKit.swiftmodule/armv7-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/WebKit.swiftmodule/armv7-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/SwiftOnoneSupport.swiftmodule/armv7-apple-ios.swiftmodule"
+- "/Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/razorpay-pod/Pod/Razorpay.framework/Modules/Razorpay.swiftmodule/armv7-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/build/Pods.build/Debug-iphoneos/razorpay_flutter.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/WebKit.framework/Headers/WebKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "22e656f24fa053375d9531ac5b8bec3e"

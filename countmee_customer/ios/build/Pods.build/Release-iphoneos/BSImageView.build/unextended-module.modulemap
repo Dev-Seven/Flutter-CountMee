@@ -1,0 +1,10 @@
+framework module BSImageView {
+  umbrella header "BSImageView-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module BSImageView.__Swift {
+    exclude header "BSImageView-Swift.h"
+}

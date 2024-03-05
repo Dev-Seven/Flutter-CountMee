@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/build/ios/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/dyld.modulemap \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h

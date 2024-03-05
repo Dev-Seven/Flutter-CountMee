@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "4fc451413a2a8bd3a4dce41748c62d93"
+build_time: [1643808857, 666273000]
+inputs:
+  "/Users/p21_0041/Documents/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/multi_image_picker-4.8.00/ios/Classes/SwiftMultiImagePickerPlugin.swift": [1643795144, 74151229]

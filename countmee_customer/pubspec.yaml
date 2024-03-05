@@ -1,0 +1,66 @@
+name: countmee
+description: On Demand App
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.11+39
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.0
+  shimmer:
+  sms_autofill:
+  pin_code_text_field:
+  permission_handler:
+  # flutter_image_compress:
+  package_info_plus:
+  image_picker:
+  shared_preferences:
+  progressive_image:
+  cached_network_image:
+  page_transition:
+  carousel_slider:
+  flutter_styled_toast:
+  url_launcher:
+  flutter_rating_bar:
+  flutter_observer:
+  dio:
+  rxdart:
+  keyboard_actions:
+  flutter_device_type:
+  google_fonts: ^2.0.0
+  country_code_picker:
+  flutter_section_table_view:
+  google_maps_flutter:
+  dotted_border:
+  image_cropper: ^1.0.1
+  geolocator:
+  geocoder:
+  location:
+  geocoding:
+  google_place:
+  google_maps_place_picker:
+  razorpay_flutter:
+  firebase_messaging: ^11.2.5
+  firebase_analytics: ^9.0.5
+  firebase_core: ^1.11.0
+  flutter_local_notifications: ^9.0.0
+  flutter_polyline_points: ^1.0.0
+  timeago:
+  cron: ^0.4.0
+  # flutter_dash:
+  intl:
+  data_connection_checker:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/

@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "b0b43a0e0e1cdc5b95e213ebb4b35a17"
+build_time: [1643808852, 922341000]
+inputs:
+  "/Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/BSImageView/Source/BSImageView.swift": [1643808839, 122833040]
+  "/Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/BSImageView/Source/ImageViewLayout.swift": [1643808839, 123348054]

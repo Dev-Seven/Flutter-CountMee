@@ -1,0 +1,10 @@
+framework module BSImagePicker {
+  umbrella header "BSImagePicker-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module BSImagePicker.__Swift {
+    exclude header "BSImagePicker-Swift.h"
+}

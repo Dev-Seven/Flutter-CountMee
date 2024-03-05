@@ -1,0 +1,52 @@
+dependencies: \
+  /Users/p21_0041/Documents/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-8.3.3/ios/Classes/FLTFirebaseAnalyticsPlugin.m \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/build/Pods.build/Debug-iphoneos/firebase_analytics.build/module.modulemap \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/Target\ Support\ Files/firebase_analytics/firebase_analytics-prefix.pch \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/usr/include/mach-o/dyld.modulemap \
+  /Users/p21_0041/Documents/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-8.3.3/ios/Classes/FLTFirebaseAnalyticsPlugin.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Modules/module.modulemap \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/Flutter.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/Headers/Public/Firebase/Firebase.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/build/Pods.build/Debug-iphoneos/FirebaseCore.build/module.modulemap \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/build/Debug-iphoneos/XCFrameworkIntermediates/FirebaseAnalytics/AdIdSupport/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/build/Debug-iphoneos/XCFrameworkIntermediates/FirebaseAnalytics/AdIdSupport/FirebaseAnalytics.framework/Modules/module.modulemap \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/build/Debug-iphoneos/XCFrameworkIntermediates/FirebaseAnalytics/AdIdSupport/FirebaseAnalytics.framework/Headers/FIRAnalytics+Consent.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/build/Debug-iphoneos/XCFrameworkIntermediates/FirebaseAnalytics/AdIdSupport/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/build/Debug-iphoneos/XCFrameworkIntermediates/FirebaseAnalytics/AdIdSupport/FirebaseAnalytics.framework/Headers/FIRParameterNames.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/build/Debug-iphoneos/XCFrameworkIntermediates/FirebaseAnalytics/AdIdSupport/FirebaseAnalytics.framework/Headers/FIREventNames.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/build/Debug-iphoneos/XCFrameworkIntermediates/FirebaseAnalytics/AdIdSupport/FirebaseAnalytics.framework/Headers/FIRAnalytics.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/build/Debug-iphoneos/XCFrameworkIntermediates/FirebaseAnalytics/AdIdSupport/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FirebaseInstallations.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/build/Pods.build/Debug-iphoneos/FirebaseInstallations.build/module.modulemap \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsErrors.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsAuthTokenResult.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallations.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/Target\ Support\ Files/FirebaseInstallations/FirebaseInstallations-umbrella.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Public/FirebaseMessaging/FirebaseMessaging.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/build/Pods.build/Debug-iphoneos/FirebaseMessaging.build/module.modulemap \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Public/FirebaseMessaging/FIRMessagingExtensionHelper.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Public/FirebaseMessaging/FIRMessaging.h \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/Target\ Support\ Files/FirebaseMessaging/FirebaseMessaging-umbrella.h

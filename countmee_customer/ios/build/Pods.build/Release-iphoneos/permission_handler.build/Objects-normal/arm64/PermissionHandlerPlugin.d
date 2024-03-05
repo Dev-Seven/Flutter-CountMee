@@ -1,0 +1,41 @@
+dependencies: \
+  /Users/p21_0041/.pub-cache/hosted/pub.dartlang.org/permission_handler-6.1.3/ios/Classes/PermissionHandlerPlugin.m \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/build/Pods.build/Release-iphoneos/permission_handler.build/module.modulemap \
+  /Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/Target\ Support\ Files/permission_handler/permission_handler-prefix.pch \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/usr/include/mach-o/dyld.modulemap \
+  /Users/p21_0041/.pub-cache/hosted/pub.dartlang.org/permission_handler-6.1.3/ios/Classes/PermissionHandlerPlugin.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Modules/module.modulemap \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/Flutter.h \
+  /Users/p21_0041/.pub-cache/hosted/pub.dartlang.org/permission_handler-6.1.3/ios/Classes/PermissionManager.h \
+  /Users/p21_0041/.pub-cache/hosted/pub.dartlang.org/permission_handler-6.1.3/ios/Classes/strategies/AudioVideoPermissionStrategy.h \
+  /Users/p21_0041/.pub-cache/hosted/pub.dartlang.org/permission_handler-6.1.3/ios/Classes/strategies/PermissionStrategy.h \
+  /Users/p21_0041/.pub-cache/hosted/pub.dartlang.org/permission_handler-6.1.3/ios/Classes/PermissionHandlerEnums.h \
+  /Users/p21_0041/.pub-cache/hosted/pub.dartlang.org/permission_handler-6.1.3/ios/Classes/strategies/BluetoothPermissionStrategy.h \
+  /Users/p21_0041/.pub-cache/hosted/pub.dartlang.org/permission_handler-6.1.3/ios/Classes/strategies/ContactPermissionStrategy.h \
+  /Users/p21_0041/.pub-cache/hosted/pub.dartlang.org/permission_handler-6.1.3/ios/Classes/strategies/EventPermissionStrategy.h \
+  /Users/p21_0041/.pub-cache/hosted/pub.dartlang.org/permission_handler-6.1.3/ios/Classes/strategies/LocationPermissionStrategy.h \
+  /Users/p21_0041/.pub-cache/hosted/pub.dartlang.org/permission_handler-6.1.3/ios/Classes/strategies/MediaLibraryPermissionStrategy.h \
+  /Users/p21_0041/.pub-cache/hosted/pub.dartlang.org/permission_handler-6.1.3/ios/Classes/strategies/PhonePermissionStrategy.h \
+  /Users/p21_0041/.pub-cache/hosted/pub.dartlang.org/permission_handler-6.1.3/ios/Classes/strategies/PhotoPermissionStrategy.h \
+  /Users/p21_0041/.pub-cache/hosted/pub.dartlang.org/permission_handler-6.1.3/ios/Classes/strategies/SensorPermissionStrategy.h \
+  /Users/p21_0041/.pub-cache/hosted/pub.dartlang.org/permission_handler-6.1.3/ios/Classes/strategies/SpeechPermissionStrategy.h \
+  /Users/p21_0041/.pub-cache/hosted/pub.dartlang.org/permission_handler-6.1.3/ios/Classes/strategies/StoragePermissionStrategy.h \
+  /Users/p21_0041/.pub-cache/hosted/pub.dartlang.org/permission_handler-6.1.3/ios/Classes/strategies/UnknownPermissionStrategy.h \
+  /Users/p21_0041/.pub-cache/hosted/pub.dartlang.org/permission_handler-6.1.3/ios/Classes/strategies/NotificationPermissionStrategy.h \
+  /Users/p21_0041/.pub-cache/hosted/pub.dartlang.org/permission_handler-6.1.3/ios/Classes/util/Codec.h

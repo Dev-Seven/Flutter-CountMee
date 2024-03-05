@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "77542f920c21ce81d751cdf6ae40b8fb"
+build_time: [1643793908, 434692000]
+inputs:
+  "/Users/p21_0041/Documents/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/razorpay_flutter-1.2.9/ios/Classes/RazorpayDelegate.swift": !dirty [1643720975, 792773806]
+  "/Users/p21_0041/Documents/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/razorpay_flutter-1.2.9/ios/Classes/SwiftRazorpayFlutterPlugin.swift": !dirty [1643720975, 791040308]

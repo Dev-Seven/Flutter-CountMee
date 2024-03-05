@@ -1,0 +1,75 @@
+name: countmee
+description: On Demand App
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.12+44
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.0
+  permission_handler:
+  shimmer:
+  sms_autofill:
+  pin_code_text_field:
+  package_info_plus:
+  image_picker:
+  shared_preferences:
+  progressive_image:
+  cached_network_image:
+  page_transition:
+  carousel_slider:
+  flutter_styled_toast:
+  url_launcher:
+  flutter_rating_bar:
+  multi_image_picker:
+  flutter_observer:
+  dio:
+  rxdart:
+  keyboard_actions:
+  flutter_device_type:
+  google_fonts: ^2.0.0
+  country_code_picker:
+  flutter_section_table_view:
+  google_maps_flutter:
+  dotted_border:
+  image_cropper: ^1.0.1
+  firebase_messaging: ^11.2.5
+  firebase_analytics: ^9.0.5
+  firebase_core: ^1.11.0
+  firebase_core_platform_interface: ^4.5.1
+  flutter_local_notifications: ^9.0.0
+  flutter_polyline_points: ^1.0.0
+  location: ^2.3.5
+  geocoding:
+  geolocator:
+  intl:
+  timeago:
+  visibility_aware_state:
+  data_connection_checker:
+  cron: ^0.4.0
+  app_tracking_transparency: ^2.0.2+4
+  app_settings: ^4.1.7
+  haversine_distance: ^1.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+#  fonts:
+#    - family: Poppins Bold
+#      fonts:
+#        - asset: assets/fonts/Poppins-Bold.ttf
+#
+#    - family: Poppins Regular
+#      fonts:
+#        - asset: assets/fonts/Poppins-Regular.ttf

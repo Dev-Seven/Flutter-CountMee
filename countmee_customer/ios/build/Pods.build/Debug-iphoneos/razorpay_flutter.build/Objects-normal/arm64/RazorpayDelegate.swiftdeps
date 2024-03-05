@@ -1,0 +1,522 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RazorpayDelegate"
+provides-nominal:
+- "16razorpay_flutter16RazorpayDelegateC"
+provides-member:
+- ["16razorpay_flutter16RazorpayDelegateC", ""]
+provides-dynamic-lookup:
+- "CODE_PAYMENT_ERROR"
+- "CODE_PAYMENT_EXTERNAL_WALLET"
+- "CODE_PAYMENT_SUCCESS"
+- "INCOMPATIBLE_PLUGIN"
+- "INVALID_OPTIONS"
+- "NETWORK_ERROR"
+- "PAYMENT_CANCELLED"
+- "TLS_ERROR"
+- "UNKNOWN_ERROR"
+- "onExternalWalletSelected"
+- "onPaymentError"
+- "onPaymentSuccess"
+- "open"
+- "pendingResult"
+- "resync"
+- "translateRzpPaymentError"
+depends-top-level:
+- !private "??"
+- "AnyHashable"
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- "Dictionary"
+- "ExternalWalletSelectionProtocol"
+- "FloatLiteralType"
+- "FlutterResult"
+- !private "INVALID_OPTIONS"
+- "Int"
+- "Int32"
+- "IntegerLiteralType"
+- !private "NETWORK_ERROR"
+- "NSDictionary"
+- "NSObject"
+- !private "PAYMENT_CANCELLED"
+- !private "RazorpayCheckout"
+- "RazorpayDelegate"
+- "RazorpayPaymentCompletionProtocolWithData"
+- "String"
+- !private "StringLiteralType"
+- !private "UNKNOWN_ERROR"
+- !private "pendingResult"
+- !private "~="
+depends-member:
+- !private ["s18AdditiveArithmeticP", ""]
+- !private ["s18AdditiveArithmeticP", "init"]
+- !private ["Sz", ""]
+- !private ["Sz", "init"]
+- !private ["s7CVarArgP", "CODE_PAYMENT_ERROR"]
+- !private ["s7CVarArgP", "CODE_PAYMENT_EXTERNAL_WALLET"]
+- !private ["s7CVarArgP", "CODE_PAYMENT_SUCCESS"]
+- !private ["s7CVarArgP", "INVALID_OPTIONS"]
+- !private ["s7CVarArgP", "Int"]
+- !private ["s7CVarArgP", "NETWORK_ERROR"]
+- !private ["s7CVarArgP", "PAYMENT_CANCELLED"]
+- !private ["s7CVarArgP", "RazorpayCheckout"]
+- !private ["s7CVarArgP", "RazorpayDelegate"]
+- !private ["s7CVarArgP", "String"]
+- !private ["s7CVarArgP", "UNKNOWN_ERROR"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "initWithKey"]
+- ["s7CVarArgP", "onExternalWalletSelected"]
+- ["s7CVarArgP", "onPaymentError"]
+- ["s7CVarArgP", "onPaymentSuccess"]
+- !private ["s7CVarArgP", "open"]
+- !private ["s7CVarArgP", "pendingResult"]
+- !private ["s7CVarArgP", "resync"]
+- !private ["s7CVarArgP", "setExternalWalletSelectionDelegate"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "translateRzpPaymentError"]
+- !private ["Sl", "init"]
+- !private ["Sl", "subscript"]
+- !private ["SL", ""]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "CODE_PAYMENT_ERROR"]
+- !private ["s28CustomDebugStringConvertibleP", "CODE_PAYMENT_EXTERNAL_WALLET"]
+- !private ["s28CustomDebugStringConvertibleP", "CODE_PAYMENT_SUCCESS"]
+- !private ["s28CustomDebugStringConvertibleP", "INVALID_OPTIONS"]
+- !private ["s28CustomDebugStringConvertibleP", "Int"]
+- !private ["s28CustomDebugStringConvertibleP", "NETWORK_ERROR"]
+- !private ["s28CustomDebugStringConvertibleP", "PAYMENT_CANCELLED"]
+- !private ["s28CustomDebugStringConvertibleP", "RazorpayCheckout"]
+- !private ["s28CustomDebugStringConvertibleP", "RazorpayDelegate"]
+- !private ["s28CustomDebugStringConvertibleP", "String"]
+- !private ["s28CustomDebugStringConvertibleP", "UNKNOWN_ERROR"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "callAsFunction"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "initWithKey"]
+- ["s28CustomDebugStringConvertibleP", "onExternalWalletSelected"]
+- ["s28CustomDebugStringConvertibleP", "onPaymentError"]
+- ["s28CustomDebugStringConvertibleP", "onPaymentSuccess"]
+- !private ["s28CustomDebugStringConvertibleP", "open"]
+- !private ["s28CustomDebugStringConvertibleP", "pendingResult"]
+- !private ["s28CustomDebugStringConvertibleP", "resync"]
+- !private ["s28CustomDebugStringConvertibleP", "setExternalWalletSelectionDelegate"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "translateRzpPaymentError"]
+- !private ["s17CustomReflectableP", "callAsFunction"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "CODE_PAYMENT_ERROR"]
+- !private ["s23CustomStringConvertibleP", "CODE_PAYMENT_EXTERNAL_WALLET"]
+- !private ["s23CustomStringConvertibleP", "CODE_PAYMENT_SUCCESS"]
+- !private ["s23CustomStringConvertibleP", "INVALID_OPTIONS"]
+- !private ["s23CustomStringConvertibleP", "Int"]
+- !private ["s23CustomStringConvertibleP", "NETWORK_ERROR"]
+- !private ["s23CustomStringConvertibleP", "PAYMENT_CANCELLED"]
+- !private ["s23CustomStringConvertibleP", "RazorpayCheckout"]
+- !private ["s23CustomStringConvertibleP", "RazorpayDelegate"]
+- !private ["s23CustomStringConvertibleP", "String"]
+- !private ["s23CustomStringConvertibleP", "UNKNOWN_ERROR"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "initWithKey"]
+- ["s23CustomStringConvertibleP", "onExternalWalletSelected"]
+- ["s23CustomStringConvertibleP", "onPaymentError"]
+- ["s23CustomStringConvertibleP", "onPaymentSuccess"]
+- !private ["s23CustomStringConvertibleP", "open"]
+- !private ["s23CustomStringConvertibleP", "pendingResult"]
+- !private ["s23CustomStringConvertibleP", "resync"]
+- !private ["s23CustomStringConvertibleP", "setExternalWalletSelectionDelegate"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "translateRzpPaymentError"]
+- !private ["Se", "callAsFunction"]
+- !private ["Se", "init"]
+- !private ["Se", "subscript"]
+- !private ["SD", "init"]
+- !private ["SD", "subscript"]
+- !private ["SE", "callAsFunction"]
+- !private ["SE", "init"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "CODE_PAYMENT_ERROR"]
+- !private ["SQ", "CODE_PAYMENT_EXTERNAL_WALLET"]
+- !private ["SQ", "CODE_PAYMENT_SUCCESS"]
+- !private ["SQ", "INVALID_OPTIONS"]
+- !private ["SQ", "Int"]
+- !private ["SQ", "NETWORK_ERROR"]
+- !private ["SQ", "PAYMENT_CANCELLED"]
+- !private ["SQ", "RazorpayCheckout"]
+- !private ["SQ", "RazorpayDelegate"]
+- !private ["SQ", "String"]
+- !private ["SQ", "UNKNOWN_ERROR"]
+- ["SQ", ""]
+- !private ["SQ", "callAsFunction"]
+- !private ["SQ", "init"]
+- !private ["SQ", "initWithKey"]
+- ["SQ", "onExternalWalletSelected"]
+- ["SQ", "onPaymentError"]
+- ["SQ", "onPaymentSuccess"]
+- !private ["SQ", "open"]
+- !private ["SQ", "pendingResult"]
+- !private ["SQ", "resync"]
+- !private ["SQ", "setExternalWalletSelectionDelegate"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "translateRzpPaymentError"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "init"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s27ExpressibleByIntegerLiteralP", ""]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "callAsFunction"]
+- ["8Razorpay31ExternalWalletSelectionProtocolP", "CODE_PAYMENT_ERROR"]
+- ["8Razorpay31ExternalWalletSelectionProtocolP", "CODE_PAYMENT_EXTERNAL_WALLET"]
+- ["8Razorpay31ExternalWalletSelectionProtocolP", "CODE_PAYMENT_SUCCESS"]
+- ["8Razorpay31ExternalWalletSelectionProtocolP", "INCOMPATIBLE_PLUGIN"]
+- ["8Razorpay31ExternalWalletSelectionProtocolP", "INVALID_OPTIONS"]
+- !private ["8Razorpay31ExternalWalletSelectionProtocolP", "Int"]
+- ["8Razorpay31ExternalWalletSelectionProtocolP", "NETWORK_ERROR"]
+- ["8Razorpay31ExternalWalletSelectionProtocolP", "PAYMENT_CANCELLED"]
+- !private ["8Razorpay31ExternalWalletSelectionProtocolP", "RazorpayCheckout"]
+- !private ["8Razorpay31ExternalWalletSelectionProtocolP", "RazorpayDelegate"]
+- !private ["8Razorpay31ExternalWalletSelectionProtocolP", "String"]
+- ["8Razorpay31ExternalWalletSelectionProtocolP", "TLS_ERROR"]
+- ["8Razorpay31ExternalWalletSelectionProtocolP", "UNKNOWN_ERROR"]
+- ["8Razorpay31ExternalWalletSelectionProtocolP", ""]
+- ["8Razorpay31ExternalWalletSelectionProtocolP", "init"]
+- ["8Razorpay31ExternalWalletSelectionProtocolP", "onExternalWalletSelected"]
+- ["8Razorpay31ExternalWalletSelectionProtocolP", "onPaymentError"]
+- ["8Razorpay31ExternalWalletSelectionProtocolP", "onPaymentSuccess"]
+- ["8Razorpay31ExternalWalletSelectionProtocolP", "open"]
+- ["8Razorpay31ExternalWalletSelectionProtocolP", "pendingResult"]
+- ["8Razorpay31ExternalWalletSelectionProtocolP", "resync"]
+- ["8Razorpay31ExternalWalletSelectionProtocolP", "translateRzpPaymentError"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["SH", "CODE_PAYMENT_ERROR"]
+- !private ["SH", "CODE_PAYMENT_EXTERNAL_WALLET"]
+- !private ["SH", "CODE_PAYMENT_SUCCESS"]
+- !private ["SH", "INVALID_OPTIONS"]
+- !private ["SH", "Int"]
+- !private ["SH", "NETWORK_ERROR"]
+- !private ["SH", "PAYMENT_CANCELLED"]
+- !private ["SH", "RazorpayCheckout"]
+- !private ["SH", "RazorpayDelegate"]
+- !private ["SH", "String"]
+- !private ["SH", "UNKNOWN_ERROR"]
+- ["SH", ""]
+- !private ["SH", "callAsFunction"]
+- !private ["SH", "init"]
+- !private ["SH", "initWithKey"]
+- ["SH", "onExternalWalletSelected"]
+- ["SH", "onPaymentError"]
+- ["SH", "onPaymentSuccess"]
+- !private ["SH", "open"]
+- !private ["SH", "pendingResult"]
+- !private ["SH", "resync"]
+- !private ["SH", "setExternalWalletSelectionDelegate"]
+- !private ["SH", "subscript"]
+- !private ["SH", "translateRzpPaymentError"]
+- !private ["Si", "init"]
+- !private ["s25LosslessStringConvertibleP", ""]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- ["So8NSCodingP", ""]
+- ["So8NSObjectC", "AnyHashable"]
+- ["So8NSObjectC", "CODE_PAYMENT_ERROR"]
+- ["So8NSObjectC", "CODE_PAYMENT_EXTERNAL_WALLET"]
+- ["So8NSObjectC", "CODE_PAYMENT_SUCCESS"]
+- ["So8NSObjectC", "Dictionary"]
+- ["So8NSObjectC", "FlutterResult"]
+- ["So8NSObjectC", "INCOMPATIBLE_PLUGIN"]
+- ["So8NSObjectC", "INVALID_OPTIONS"]
+- ["So8NSObjectC", "Int"]
+- ["So8NSObjectC", "Int32"]
+- ["So8NSObjectC", "NETWORK_ERROR"]
+- !private ["So8NSObjectC", "NSDictionary"]
+- ["So8NSObjectC", "PAYMENT_CANCELLED"]
+- !private ["So8NSObjectC", "RazorpayCheckout"]
+- !private ["So8NSObjectC", "RazorpayDelegate"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "TLS_ERROR"]
+- ["So8NSObjectC", "UNKNOWN_ERROR"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "initWithKey"]
+- ["So8NSObjectC", "onExternalWalletSelected"]
+- ["So8NSObjectC", "onPaymentError"]
+- ["So8NSObjectC", "onPaymentSuccess"]
+- ["So8NSObjectC", "open"]
+- ["So8NSObjectC", "pendingResult"]
+- ["So8NSObjectC", "resync"]
+- !private ["So8NSObjectC", "setExternalWalletSelectionDelegate"]
+- ["So8NSObjectC", "translateRzpPaymentError"]
+- ["So8NSObjectP", "AnyHashable"]
+- ["So8NSObjectP", "CODE_PAYMENT_ERROR"]
+- ["So8NSObjectP", "CODE_PAYMENT_EXTERNAL_WALLET"]
+- ["So8NSObjectP", "CODE_PAYMENT_SUCCESS"]
+- ["So8NSObjectP", "Dictionary"]
+- ["So8NSObjectP", "FlutterResult"]
+- ["So8NSObjectP", "INCOMPATIBLE_PLUGIN"]
+- ["So8NSObjectP", "INVALID_OPTIONS"]
+- ["So8NSObjectP", "Int"]
+- ["So8NSObjectP", "Int32"]
+- ["So8NSObjectP", "NETWORK_ERROR"]
+- !private ["So8NSObjectP", "NSDictionary"]
+- ["So8NSObjectP", "PAYMENT_CANCELLED"]
+- !private ["So8NSObjectP", "RazorpayCheckout"]
+- !private ["So8NSObjectP", "RazorpayDelegate"]
+- ["So8NSObjectP", "String"]
+- ["So8NSObjectP", "TLS_ERROR"]
+- ["So8NSObjectP", "UNKNOWN_ERROR"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "initWithKey"]
+- ["So8NSObjectP", "onExternalWalletSelected"]
+- ["So8NSObjectP", "onPaymentError"]
+- ["So8NSObjectP", "onPaymentSuccess"]
+- ["So8NSObjectP", "open"]
+- ["So8NSObjectP", "pendingResult"]
+- ["So8NSObjectP", "resync"]
+- !private ["So8NSObjectP", "setExternalWalletSelectionDelegate"]
+- ["So8NSObjectP", "translateRzpPaymentError"]
+- !private ["Sj", ""]
+- !private ["Sj", "init"]
+- !private ["Sq", "callAsFunction"]
+- !private ["8Razorpay0A8CheckoutC", "initWithKey"]
+- !private ["8Razorpay0A8CheckoutC", "open"]
+- !private ["8Razorpay0A8CheckoutC", "setExternalWalletSelectionDelegate"]
+- ["16razorpay_flutter16RazorpayDelegateC", "AnyHashable"]
+- ["16razorpay_flutter16RazorpayDelegateC", "CODE_PAYMENT_ERROR"]
+- ["16razorpay_flutter16RazorpayDelegateC", "CODE_PAYMENT_EXTERNAL_WALLET"]
+- ["16razorpay_flutter16RazorpayDelegateC", "CODE_PAYMENT_SUCCESS"]
+- ["16razorpay_flutter16RazorpayDelegateC", "Dictionary"]
+- ["16razorpay_flutter16RazorpayDelegateC", "FlutterResult"]
+- ["16razorpay_flutter16RazorpayDelegateC", "INCOMPATIBLE_PLUGIN"]
+- ["16razorpay_flutter16RazorpayDelegateC", "INVALID_OPTIONS"]
+- ["16razorpay_flutter16RazorpayDelegateC", "Int"]
+- ["16razorpay_flutter16RazorpayDelegateC", "Int32"]
+- ["16razorpay_flutter16RazorpayDelegateC", "NETWORK_ERROR"]
+- !private ["16razorpay_flutter16RazorpayDelegateC", "NSDictionary"]
+- ["16razorpay_flutter16RazorpayDelegateC", "PAYMENT_CANCELLED"]
+- !private ["16razorpay_flutter16RazorpayDelegateC", "RazorpayCheckout"]
+- !private ["16razorpay_flutter16RazorpayDelegateC", "RazorpayDelegate"]
+- ["16razorpay_flutter16RazorpayDelegateC", "String"]
+- ["16razorpay_flutter16RazorpayDelegateC", "TLS_ERROR"]
+- ["16razorpay_flutter16RazorpayDelegateC", "UNKNOWN_ERROR"]
+- ["16razorpay_flutter16RazorpayDelegateC", ""]
+- ["16razorpay_flutter16RazorpayDelegateC", "deinit"]
+- ["16razorpay_flutter16RazorpayDelegateC", "init"]
+- ["16razorpay_flutter16RazorpayDelegateC", "onExternalWalletSelected"]
+- ["16razorpay_flutter16RazorpayDelegateC", "onPaymentError"]
+- ["16razorpay_flutter16RazorpayDelegateC", "onPaymentSuccess"]
+- ["16razorpay_flutter16RazorpayDelegateC", "open"]
+- !private ["16razorpay_flutter16RazorpayDelegateC", "pendingResult"]
+- ["16razorpay_flutter16RazorpayDelegateC", "resync"]
+- ["16razorpay_flutter16RazorpayDelegateC", "translateRzpPaymentError"]
+- ["8Razorpay0A33PaymentCompletionProtocolWithDataP", "CODE_PAYMENT_ERROR"]
+- ["8Razorpay0A33PaymentCompletionProtocolWithDataP", "CODE_PAYMENT_EXTERNAL_WALLET"]
+- ["8Razorpay0A33PaymentCompletionProtocolWithDataP", "CODE_PAYMENT_SUCCESS"]
+- ["8Razorpay0A33PaymentCompletionProtocolWithDataP", "INCOMPATIBLE_PLUGIN"]
+- ["8Razorpay0A33PaymentCompletionProtocolWithDataP", "INVALID_OPTIONS"]
+- !private ["8Razorpay0A33PaymentCompletionProtocolWithDataP", "Int"]
+- ["8Razorpay0A33PaymentCompletionProtocolWithDataP", "NETWORK_ERROR"]
+- ["8Razorpay0A33PaymentCompletionProtocolWithDataP", "PAYMENT_CANCELLED"]
+- !private ["8Razorpay0A33PaymentCompletionProtocolWithDataP", "RazorpayCheckout"]
+- !private ["8Razorpay0A33PaymentCompletionProtocolWithDataP", "RazorpayDelegate"]
+- !private ["8Razorpay0A33PaymentCompletionProtocolWithDataP", "String"]
+- ["8Razorpay0A33PaymentCompletionProtocolWithDataP", "TLS_ERROR"]
+- ["8Razorpay0A33PaymentCompletionProtocolWithDataP", "UNKNOWN_ERROR"]
+- ["8Razorpay0A33PaymentCompletionProtocolWithDataP", ""]
+- ["8Razorpay0A33PaymentCompletionProtocolWithDataP", "init"]
+- ["8Razorpay0A33PaymentCompletionProtocolWithDataP", "onExternalWalletSelected"]
+- ["8Razorpay0A33PaymentCompletionProtocolWithDataP", "onPaymentError"]
+- ["8Razorpay0A33PaymentCompletionProtocolWithDataP", "onPaymentSuccess"]
+- ["8Razorpay0A33PaymentCompletionProtocolWithDataP", "open"]
+- ["8Razorpay0A33PaymentCompletionProtocolWithDataP", "pendingResult"]
+- ["8Razorpay0A33PaymentCompletionProtocolWithDataP", "resync"]
+- ["8Razorpay0A33PaymentCompletionProtocolWithDataP", "translateRzpPaymentError"]
+- ["8Razorpay0A8ProtocolP", "CODE_PAYMENT_ERROR"]
+- ["8Razorpay0A8ProtocolP", "CODE_PAYMENT_EXTERNAL_WALLET"]
+- ["8Razorpay0A8ProtocolP", "CODE_PAYMENT_SUCCESS"]
+- ["8Razorpay0A8ProtocolP", "INCOMPATIBLE_PLUGIN"]
+- ["8Razorpay0A8ProtocolP", "INVALID_OPTIONS"]
+- !private ["8Razorpay0A8ProtocolP", "Int"]
+- ["8Razorpay0A8ProtocolP", "NETWORK_ERROR"]
+- ["8Razorpay0A8ProtocolP", "PAYMENT_CANCELLED"]
+- !private ["8Razorpay0A8ProtocolP", "RazorpayCheckout"]
+- !private ["8Razorpay0A8ProtocolP", "RazorpayDelegate"]
+- !private ["8Razorpay0A8ProtocolP", "String"]
+- ["8Razorpay0A8ProtocolP", "TLS_ERROR"]
+- ["8Razorpay0A8ProtocolP", "UNKNOWN_ERROR"]
+- ["8Razorpay0A8ProtocolP", ""]
+- ["8Razorpay0A8ProtocolP", "init"]
+- ["8Razorpay0A8ProtocolP", "onExternalWalletSelected"]
+- ["8Razorpay0A8ProtocolP", "onPaymentError"]
+- ["8Razorpay0A8ProtocolP", "onPaymentSuccess"]
+- ["8Razorpay0A8ProtocolP", "open"]
+- ["8Razorpay0A8ProtocolP", "pendingResult"]
+- ["8Razorpay0A8ProtocolP", "resync"]
+- ["8Razorpay0A8ProtocolP", "translateRzpPaymentError"]
+- !private ["s10SIMDScalarP", "init"]
+- !private ["ST", ""]
+- !private ["ST", "init"]
+- !private ["ST", "subscript"]
+- !private ["SZ", "init"]
+- !private ["s13SignedNumericP", ""]
+- !private ["s13SignedNumericP", "init"]
+- !private ["Sx", ""]
+- !private ["Sx", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CODE_PAYMENT_ERROR"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CODE_PAYMENT_EXTERNAL_WALLET"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CODE_PAYMENT_SUCCESS"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "INVALID_OPTIONS"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Int"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NETWORK_ERROR"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "PAYMENT_CANCELLED"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "RazorpayCheckout"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "RazorpayDelegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "String"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UNKNOWN_ERROR"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "initWithKey"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "onExternalWalletSelected"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "onPaymentError"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "onPaymentSuccess"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "open"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "pendingResult"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "resync"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setExternalWalletSelectionDelegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "translateRzpPaymentError"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "CODE_PAYMENT_ERROR"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "CODE_PAYMENT_EXTERNAL_WALLET"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "CODE_PAYMENT_SUCCESS"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "INVALID_OPTIONS"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Int"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "NETWORK_ERROR"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "PAYMENT_CANCELLED"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "RazorpayCheckout"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "RazorpayDelegate"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "String"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UNKNOWN_ERROR"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "initWithKey"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "onExternalWalletSelected"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "onPaymentError"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "onPaymentSuccess"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "open"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "pendingResult"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "resync"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "setExternalWalletSelectionDelegate"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "translateRzpPaymentError"]
+- !private ["s21_ObjectiveCBridgeableP", "_ObjectiveCType"]
+- !private ["s21_ObjectiveCBridgeableP", "_bridgeToObjectiveC"]
+- !private ["s21_ObjectiveCBridgeableP", "_conditionallyBridgeFromObjectiveC"]
+- !private ["s21_ObjectiveCBridgeableP", "_forceBridgeFromObjectiveC"]
+- !private ["s21_ObjectiveCBridgeableP", "_unconditionallyBridgeFromObjectiveC"]
+- !private ["s21_ObjectiveCBridgeableP", "callAsFunction"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "Sz"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SD"
+- !private "SE"
+- "SQ"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "8Razorpay31ExternalWalletSelectionProtocolP"
+- !private "s17FixedWidthIntegerP"
+- "SH"
+- !private "Si"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sj"
+- !private "Sq"
+- !private "8Razorpay0A8CheckoutC"
+- "16razorpay_flutter16RazorpayDelegateC"
+- "8Razorpay0A33PaymentCompletionProtocolWithDataP"
+- "8Razorpay0A8ProtocolP"
+- !private "s10SIMDScalarP"
+- !private "ST"
+- !private "SZ"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/ObjectiveC.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreMedia.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreImage.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Combine.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/QuartzCore.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Dispatch.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Metal.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Darwin.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreLocation.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Foundation.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreFoundation.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreAudio.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreGraphics.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Swift.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/UIKit.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/WebKit.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/SwiftOnoneSupport.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/Pods/Target Support Files/razorpay_flutter/razorpay_flutter-umbrella.h"
+- "/Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterCallbackCache.h"
+- "/Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterEngine.h"
+- "/Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterTexture.h"
+- "/Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h"
+- "/Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterAppDelegate.h"
+- "/Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterPlugin.h"
+- "/Users/p21_0041/Documents/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/razorpay_flutter-1.2.9/ios/Classes/RazorpayFlutterPlugin.h"
+- "/Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterEngineGroup.h"
+- "/Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterBinaryMessenger.h"
+- "/Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterViewController.h"
+- "/Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterHeadlessDartRunner.h"
+- "/Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/Flutter.h"
+- "/Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterCodecs.h"
+- "/Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterChannels.h"
+- "/Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterMacros.h"
+- "/Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterPlatformViews.h"
+- "/Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterDartProject.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/p21_0041/Documents/Project/Gitlab/countmee-courier-app/countmee_customer/ios/build/Pods.build/Debug-iphoneos/razorpay_flutter.build/unextended-module.modulemap"
+- "/Users/p21_0041/Documents/SDK/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/CoreAudioTypes.framework/Headers/CoreAudioTypes.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/WebKit.framework/Headers/WebKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "93ac96151b4455af046b9428c24a5f7a"
